@@ -1,0 +1,10 @@
+DataNode1/root/*
+DataNode2/root/*
+DataNode3/root/*
+NameNode/data/*
+curl_commands.txt
+removed_code.py
+dont_read.md
+pr.py
+DataNode4/root/*
+copy_folder.py
